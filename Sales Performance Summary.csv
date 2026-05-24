@@ -1,0 +1,2 @@
+earliest_date,latest_date,distinct_dates,total_transactions,total_quantity,avg_quantity,min_price,max_price,avg_price,total_revenue,avg_transaction_value
+2023-01-01,2024-01-01,345,1000,2514,2.514,25,500,179.89,456000,456
